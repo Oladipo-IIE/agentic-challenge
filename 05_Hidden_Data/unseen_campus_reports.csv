@@ -1,0 +1,301 @@
+report_id,timestamp,location,category,reported_severity,description,reporter_type
+U001,2026-09-16T09:03,Library Level 2,facilities,MEDIUM,Water is pooling near the study desks on level two.,lecturer
+U002,2026-09-16T09:07,Engineering Block E3,fire,HIGH,A burning smell is coming from the E3 electrical lab.,student
+U003,2026-09-16T09:11,Campus-wide,it,MEDIUM,Wi-Fi is slow in the north residence.,security
+U004,2026-09-16T09:15,Sports Centre Court 1,medical,HIGH,A student collapsed during basketball practice.,lecturer
+U005,2026-09-16T09:19,Administration Block Lift A,accessibility,MEDIUM,Lift A is not responding at the ground floor.,system_sensor
+U006,2026-09-16T09:23,Science Block loading bay,security,LOW,An unknown person is photographing a locked service entrance.,system_sensor
+U007,2026-09-16T09:27,Cafeteria east entrance,environmental,LOW,Broken glass is scattered outside the cafeteria entrance.,lecturer
+U008,2026-09-16T09:31,Parking Area P2,electrical,MEDIUM,Several lights are off in parking area P2.,system_sensor
+U009,2026-09-16T09:35,Science Block S1,environmental,HIGH,A sharp chemical smell is reported outside laboratory S1.,staff
+U010,2026-09-16T09:39,Residence R2,facilities,LOW,No water is coming from taps on the third floor of residence R2.,staff
+U011,2026-09-16T09:43,Residence R1 main entrance,security,MEDIUM,Student cards are not unlocking teh R1 main entrance.,student
+U012,2026-09-16T09:47,Cafeteria serving line,cleaning,LOW,A large oily spill is on the floor near the serving line.,system_sensor
+U013,2026-09-16T09:51,Walkway between B and Library,environmental,MEDIUM,A large branch has fallen beside the library walkway.,lecturer
+U014,2026-09-16T09:55,ICT server room,it,MEDIUM,The server-room temperature alarm is active.,student
+U015,2026-09-16T09:59,Administration courtyard,security,LOW,A group of students is gathering in the administration courtyard.,system_sensor
+U016,2026-09-16T09:48,Library Level 2,facilities,MEDIUM,The leak appears to come from the ceiling near the archives.,lecturer
+U017,15/09/26 09:52,Engineering Block E3,fire,HIGH,Light smoke is visible near a wall socket in E3.,student
+U018,2026-09-16T09:56,Campus-wide,it,MEDIUM,Students in the library cannot reach the learning platform.,staff
+U019,2026-09-16T10:00,Sports Centre Court 1,MEDICAL,HIGH,The student is conscious but confused and breathing quickly.,system_sensor
+U020,2026-09-16T10:04,Administration Block Lift A,accessibility,MEDIUM,A wheelchair user is waiting for access to the second floor.,student
+U021,2026-09-16T10:08,Science Block loading bay,security,MEDIUM,The person has tools and is trying keys at the loading bay.,system_sensor
+U022,2026-09-16T10:12,Cafeteria east entrance,environmental,MEDIUM,A student nearly stepped on glass near teh east door.,system_sensor
+U023,2026-09-16T10:16,Parking Area P2,electrical,medium,The payment kiosk and two light poles have lost power.,security
+U024,2026-09-16T10:20,Science Block S1,environmental,HIGH,Two students report eye irritation in the corridor.,security
+U025,2026-09-16T10:24,Residence R2,facilities,MEDIUM,Students on the second floor also report low pressure.,system_sensor
+U026,2026-09-16T10:28,Residence R1 main entrance,security,MEDIUM,Several residents are gathering outside the entrance.,staff
+U027,2026-09-16T10:32,Cafeteria serving line,cleaning,MEDIUM,One student slipped but says they are not injured.,security
+U028,2026-09-16T10:36,Walkway between B and Library,environmental,MEDIUM,Part of the branch is hanging above the pedestrian path.,lecturer
+U029,2026-13-40 09:99,ICT server room,it,MEDIUM,Several internal systems are responding slowly.,lecturer
+U030,2026-09-16T10:44,Administration courtyard,security,MEDIUM,The group is chanting and carrying signs.,student
+U031,,Library Level 2,facilities,HIGH,Another student reports the same wet floor beside the printers.,system_sensor
+U032,2026-09-16T10:37,Engineering Block E3,fire,CRITICAL,A second lecturer confirms smoke and asks students to leave.,student
+U033,2026-09-16T10:41,Campus-wide,it,HIGH,A lecturer reports failed logins in Block B.,system_sensor
+U034,15/09/26 10:45,Sports Centre Court 1,medical,CRITICAL,A coach confirms first aid is being provided.,staff
+U035,2026-09-16T10:49,Administration Block Lift A,accessibility,HIGH,Reception confirms there is no equivalent accessible route.,lecturer
+U036,2026-09-16T10:53,Science Block loading bay,security,MEDIUM,A second report describes a reflective vest and contractor vehicle.,security
+U037,2026-09-16T10:57,Cafeteria east entrance,environmental,MEDIUM,A second report confirms the same debris field.,security
+U038,2026-09-16T11:01,Parking Area P2,ELECTRICAL,HIGH,Security confirms a large dark section near the pedestrian route.,staff
+U039,2026-09-16T11:05,Science Blk S1,environmental,CRITICAL,A technician confirms the odour near a storage cabinet.,system_sensor
+U040,2026-09-16T11:09,Residence R2,facilities,MEDIUM,Reception confirms the issue affects most of R2.,security
+U041,2026-09-16T11:13,Residence R1 main entrance,security,HIGH,Reception confirms the card reader is offline.,lecturer
+U042,2026-09-16T11:17,Cafeteria serving line,cleaning,MEDIUM,Staff confirm the spill extends across the queue route.,student
+U043,2026-09-16T11:21,Walkway between B and Library,environmental,HIGH,Security confirms pedestrians are walking underneath it.,security
+U044,2026-09-16T11:25,ICT server room,it,HIGH,ICT confirms cooling unit one has stopped.,system_sensor
+U045,2026-09-16T11:29,Administration courtyard,security,MEDIUM,A staff member confirms entrances remain open.,staff
+U046,2026-09-16T11:18,Library Level 2,facilities,high,Water has reached a power extension; the area is becoming unsafe.,system_sensor
+U047,2026-09-16T11:22,Engineering Block E3,fire,CRITICAL,Sparks were seen and the local alarm has activated.,staff
+U048,2026-09-16T11:26,Campus-wide,it,HIGH,Multiple buildings now show intermittent network loss.,staff
+U049,2026-09-16T11:30,Sports Centre Court 1,medical,CRITICAL,The student briefly lost consciousness again.,staff
+U050,2026-09-16T11:34,Administration Block Lift A,accessibility,HIGH,The lift stopped between floors with two occupants inside.,lecturer
+U051,15/09/26 11:38,Science Block loading bay,security,MEDIUM,The person entered a restricted service corridor.,student
+U052,2026-09-16T11:42,Cafeteria east entrance,environmental,MEDIUM,Glass has spread into the accessible entrance path.,security
+U053,2026-09-16T11:46,Parking Area P2,electrical,HIGH,A cable cabinet is making a buzzing sound.,security
+U054,2026-09-16T11:50,Science Block S1,environmental,CRITICAL,The corridor is being evacuated as a precaution.,security
+U055,2026-09-16T11:54,Residence R2,facilities,MEDIUM,The fire-system panel reports low supply pressure.,student
+U056,2026-09-16T11:58,Residence R1 main entrance,security,HIGH,The emergency exit alarm begins sounding while access is disrupted.,security
+U057,2026-09-16T12:02,Cafeteria serving line,CLEANING,MEDIUM,The accessible route through the cafeteria is blocked.,student
+U058,2026-13-40 09:99,Walkway between B and Library,environmental,HIGH,Wind is moving the damaged limb and debris is falling.,staff
+U059,2026-09-16T12:10,ICT server room,it,HIGH,Temperature continues to rise toward equipment limits.,lecturer
+U060,2026-09-16T12:14,Administration courtyard,security,MEDIUM,The crowd grows and one doorway becomes difficult to use.,lecturer
+U061,2026-09-16T12:03,Library Level 2,facilities,HIGH,A witness says it may only be a spilled cleaning bucket.,student
+U062,,Engineering Block E3,fire,CRITICAL,One witness says the smoke may be dust from maintenance.,lecturer
+U063,2026-09-16T12:11,Campus-wide,it,HIGH,One user says mobile data works and believes the issue is local.,student
+U064,2026-09-16T12:15,Sports Centre Court 1,medical,CRITICAL,"A bystander thinks it is only dehydration, but this is unconfirmed.",security
+U065,2026-09-16T12:19,Administration Blk Lift A,accessibility,HIGH,"Another caller says the doors are open on level one, which conflicts with the trapped-person report.",lecturer
+U066,2026-09-16T12:23,Science Block loading bay,security,MEDIUM,A staff member says maintenance work may have been scheduled today.,security
+U067,2026-09-16T12:27,Cafeteria east entrance,environmental,MEDIUM,One caller says the main doorway is still passable.,student
+U068,15/09/26 12:31,Parking Area P2,electrical,HIGH,One report says lights briefly returned before failing again.,security
+U069,2026-09-16T12:35,Science Block S1,environmental,critical,Another witness says the smell may be cleaning solvent.,staff
+U070,2026-09-16T12:39,Residence R2,facilities,MEDIUM,One room still has normal water pressure.,student
+U071,2026-09-16T12:43,Residence R1 main entrance,security,HIGH,One resident says a side entrance is open.,security
+U072,2026-09-16T12:47,Cafeteria serving line,cleaning,MEDIUM,A caller says warning signs are already present.,system_sensor
+U073,2026-09-16T12:51,Walkway between B and Library,environmental,HIGH,One report says the main path is still open.,system_sensor
+U074,2026-09-16T12:55,ICT server room,it,HIGH,Facilities says the room feels warm but not extreme.,lecturer
+U075,2026-09-16T12:59,Administration courtyard,security,MEDIUM,A witness reports shouting but no threats or violence.,lecturer
+U076,2026-09-16T12:48,Library Level 2,maint,HIGH,Duplicate report: water beside the level two printers.,staff
+U077,2026-09-16T12:52,Engineering Block E3,fire,CRITICAL,Duplicate report: smoke in teh E3 lab.,security
+U078,2026-09-16T12:56,Campus-wide,it,HIGH,Duplicate report: learning platform unavailable in the library.,lecturer
+U079,2026-09-16T13:00,Sports Centre Court 1,medical,CRITICAL,Duplicate report: student collapsed on court one.,lecturer
+U080,2026-09-16T13:04,Administration Block Lift A,accessibility,HIGH,Duplicate report: Lift A is out of service.,staff
+U081,2026-09-16T13:08,Science Block loading bay,security,MEDIUM,Duplicate report: unknown contractor at the science loading bay.,lecturer
+U082,2026-09-16T13:12,Cafeteria east entrance,environmental,MEDIUM,Duplicate report: broken bottle at the cafeteria east door.,student
+U083,2026-09-16T13:16,Parking Area P2,electrical,HIGH,Duplicate report: P2 lights are out.,system_sensor
+U084,2026-09-16T13:20,Science Block S1,environmental,CRITICAL,Duplicate report: chemical odour at S1.,security
+U085,15/09/26 13:24,Residence R2,facilities,MEDIUM,Duplicate report: no water in R2.,student
+U086,2026-09-16T13:28,Residence R1 main entrance,security,HIGH,Duplicate report: R1 cards not working.,lecturer
+U087,2026-13-40 09:99,Cafeteria serving line,cleaning,MEDIUM,Duplicate report: oily floor at serving line.,staff
+U088,2026-09-16T13:36,Walkway between B and Library,environmental,HIGH,Duplicate report: tree branch near Block B walkway.,system_sensor
+U089,2026-09-16T13:40,ICT server room,it,HIGH,Duplicate report: server cooling alarm.,security
+U090,2026-09-16T13:44,Administration courtyard,security,MEDIUM,Duplicate report: student gathering at administration.,security
+U091,2026-09-16T13:33,Library Level 2,facilities,HIGH,Facilities have isolated the pipe and cordoned the area.,lecturer
+U092,2026-09-16T13:37,Engineering Block E3,fire,critical,Security confirms the room has been evacuated.,system_sensor
+U093,,Campus-wide,it,HIGH,ICT identifies a core switch problem.,student
+U094,2026-09-16T13:45,Sports Centre Court 1,medical,CRITICAL,Campus first aid requests external emergency medical support.,staff
+U095,2026-09-16T13:49,Administration Block Lift A,access,HIGH,Security confirms two occupants are communicating through the intercom.,security
+U096,2026-09-16T13:53,Science Block loading bay,security,MEDIUM,Security approaches the person for identification.,system_sensor
+U097,2026-09-16T13:57,Cafeteria east entrance,environmental,MEDIUM,Security places a temporary barrier around the area.,student
+U098,2026-09-16T14:01,Parking Area P2,electrical,HIGH,Security increases patrols and redirects pedestrians.,security
+U099,2026-09-16T14:05,Science Block S1,environmental,CRITICAL,Security closes access to teh corridor.,student
+U100,2026-09-16T14:09,Residence R2,facilities,MEDIUM,Facilities checks the incoming valve and campus supply.,staff
+U101,2026-09-16T14:13,Residence R1 main entrance,security,HIGH,Security establishes controlled manual entry.,staff
+U102,15/09/26 14:17,Cafeteria serving line,cleaning,MEDIUM,Staff close the affected section.,staff
+U103,2026-09-16T14:21,Walkway between B and Library,environmental,HIGH,Security closes the path and redirects pedestrians.,security
+U104,2026-09-16T14:25,ICT server room,it,HIGH,ICT shifts workloads and restricts room access.,system_sensor
+U105,2026-09-16T14:29,Administration courtyard,security,MEDIUM,Security establishes a safe observation point and keeps exits clear.,staff
+U106,2026-09-16T14:18,Library Level 2,facilities,HIGH,The flow has stopped but the carpet remains wet.,security
+U107,2026-09-16T14:22,Engineering Block E3,fire,CRITICAL,Fire response has isolated the room and electrical supply.,lecturer
+U108,2026-09-16T14:26,Campus-wide,it,HIGH,Authentication and Wi-Fi remain unstable campus-wide.,security
+U109,2026-09-16T14:30,Sports Centre Court 1,medical,CRITICAL,The student is responsive and being monitored.,student
+U110,2026-09-16T14:34,Administration Block Lift A,accessibility,HIGH,Lift technicians and emergency support are on scene.,student
+U111,2026-09-16T14:38,Science Block loading bay,security,MEDIUM,"The person presents a contractor card, but the work order is not yet confirmed.",security
+U112,2026-09-16T14:42,Cafeteria east entrance,environmental,MEDIUM,Cleaning staff begin removing the glass.,staff
+U113,2026-09-16T14:46,Parking Area P2,electrical,HIGH,Electrical staff isolate the affected circuit.,system_sensor
+U114,2026-09-16T14:50,Science Block S1,safety,CRITICAL,Fire response checks the laboratory and ventilation.,lecturer
+U115,2026-09-16T14:54,Residence R2,facilities,medium,A failed pressure-control valve is identified.,student
+U116,2026-13-40 09:99,Residence R1 main entrance,security,HIGH,ICT checks the access-control network.,lecturer
+U117,2026-09-16T15:02,Cafeteria serving line,cleaning,MEDIUM,Cleaning begins with degreasing equipment.,lecturer
+U118,2026-09-16T15:06,Walkway between B and Library,environmental,HIGH,Facilities requests an arborist response.,staff
+U119,15/09/26 15:10,ICT server room,it,HIGH,Facilities starts a portable cooling unit.,system_sensor
+U120,2026-09-16T15:14,Administration courtyard,security,MEDIUM,A student representative confirms a peaceful demonstration.,security
+U121,2026-09-16T15:03,Library Level 2,facilities,MEDIUM,Cleaning staff are extracting water from teh carpet.,system_sensor
+U122,2026-09-16T15:07,Engineering Block E3,fire,HIGH,"No flames are visible, but the panel remains hot.",security
+U123,2026-09-16T15:11,Campus-wide,it,MEDIUM,A temporary route restores some services.,security
+U124,,Sports Centre Court 1,medical,HIGH,Paramedics have arrived at the sports centre.,system_sensor
+U125,2026-09-16T15:19,Administration Block Lift A,accessibility,MEDIUM,The occupants have been released safely.,lecturer
+U126,2026-09-16T15:23,Science Block loading bay,security,MEDIUM,Facilities finds a matching electrical maintenance request.,staff
+U127,2026-09-16T15:27,Cafeteria east entrance,environmental,MEDIUM,The accessible path is temporarily redirected.,lecturer
+U128,2026-09-16T15:31,Parking Area P2,electrical,MEDIUM,The buzzing stops after isolation.,security
+U129,2026-09-16T15:35,Science Block S1,environmental,HIGH,A small solvent container is found leaking inside secondary containment.,student
+U130,2026-09-16T15:39,Residence R2,facilities,MEDIUM,Temporary drinking water is delivered.,student
+U131,2026-09-16T15:43,Residence R1 main entrance,security,MEDIUM,The emergency exit is secure and unobstructed.,system_sensor
+U132,2026-09-16T15:47,Cafeteria serving line,cleaning,MEDIUM,An alternate accessible route is marked.,system_sensor
+U133,2026-09-16T15:51,Walkway between B and Library,safety,MEDIUM,The hanging limb is secured.,staff
+U134,2026-09-16T15:55,ICT server room,it,MEDIUM,Temperature stabilises below shutdown threshold.,student
+U135,2026-09-16T15:59,Administration courtyard,security,MEDIUM,Campus management opens a communication channel with organisers.,student
+U136,15/09/26 15:48,Library Level 2,facilities,MEDIUM,No additional water has appeared for twenty minutes.,student
+U137,2026-09-16T15:52,Engineering Block E3,fire,HIGH,An electrician reports a failed distribution component.,lecturer
+U138,2026-09-16T15:56,Campus-wide,it,medium,"Most users can connect, but residence access is still degraded.",security
+U139,2026-09-16T16:00,Sports Centre Court 1,medical,HIGH,The student is being transferred for medical assessment.,security
+U140,2026-09-16T16:04,Administration Block Lift A,accessibility,MEDIUM,The lift remains unavailable and an assisted alternative route is active.,staff
+U141,2026-09-16T16:08,Science Block loading bay,security,MEDIUM,The contractor identity and work order are verified.,security
+U142,2026-09-16T16:12,Cafeteria east entrance,environmental,MEDIUM,Most glass has been removed.,student
+U143,2026-09-16T16:16,Pkng P2,electrical,MEDIUM,Temporary lighting is installed.,security
+U144,2026-09-16T16:20,Science Block S1,environmental,HIGH,The container is secured and the room ventilated.,system_sensor
+U145,2026-13-40 09:99,Residence R2,facilities,MEDIUM,The fire-system supply is confirmed separately protected.,lecturer
+U146,2026-09-16T16:28,Residence R1 main entrance,security,MEDIUM,A controller reboot restores some card access.,security
+U147,2026-09-16T16:32,Cafeteria serving line,cleaning,MEDIUM,The floor remains slippery after the first clean.,student
+U148,2026-09-16T16:36,Walkway between B and Library,environmental,MEDIUM,The main branch is removed from the path.,lecturer
+U149,2026-09-16T16:40,ICT server room,it,MEDIUM,Core services remain available.,staff
+U150,2026-09-16T16:44,Administration courtyard,security,MEDIUM,The doorway is cleared after a request from organisers.,system_sensor
+U151,2026-09-16T16:33,Library Level 2,facilities,MEDIUM,Facilities confirm a failed pipe joint caused the leak.,lecturer
+U152,2026-09-16T16:37,Engineering Block E3,FIRE,HIGH,The panel temperature is falling.,student
+U153,15/09/26 16:41,Campus-wide,it,MEDIUM,ICT replaces the failed switch module.,system_sensor
+U154,2026-09-16T16:45,Sports Centre Court 1,medical,HIGH,The court is clear and tehre is no wider hazard.,student
+U155,,Administration Block Lift A,accessibility,MEDIUM,Accessibility support has contacted affected students.,system_sensor
+U156,2026-09-16T16:53,Science Blk loading bay,security,MEDIUM,Security records the access and reminds the contractor to display identification.,staff
+U157,2026-09-16T16:57,Cafeteria east entrance,environmental,MEDIUM,Staff inspect the surrounding paving.,lecturer
+U158,2026-09-16T17:01,Parking Area P2,electrical,MEDIUM,A damaged contactor is identified.,student
+U159,2026-09-16T17:05,Science Block S1,environmental,HIGH,Air readings are improving.,lecturer
+U160,2026-09-16T17:09,Residence R2,facilities,MEDIUM,Repairs restore partial pressure.,system_sensor
+U161,2026-09-16T17:13,Residence R1 main entrance,security,medium,The faulty reader is replaced.,student
+U162,2026-09-16T17:17,Cafeteria serving line,cleaning,MEDIUM,A second cleaning treatment is applied.,lecturer
+U163,2026-09-16T17:21,Walkway between B and Library,environmental,MEDIUM,Smaller debris is being cleared.,lecturer
+U164,2026-09-16T17:25,ICT server room,it,MEDIUM,The failed cooling controller is replaced.,security
+U165,2026-09-16T17:29,Administration courtyard,security,MEDIUM,The crowd remains peaceful.,lecturer
+U166,2026-09-16T17:18,Library Level 2,facilities,MEDIUM,The electrical extension has been removed and inspected.,lecturer
+U167,2026-09-16T17:22,Engineering Block E3,fire,HIGH,Fire response declares the immediate danger controlled.,security
+U168,2026-09-16T17:26,Campus-wide,it,MEDIUM,Monitoring shows normal traffic in academic buildings.,system_sensor
+U169,2026-09-16T17:30,Sports Centre Court 1,medical,HIGH,The coach confirms the student's belongings are secured.,student
+U170,15/09/26 17:34,Administration Block Lift A,accessibility,MEDIUM,Technicians identify a door sensor fault.,security
+U171,2026-09-16T17:38,Science Block loading bay,SECURITY,MEDIUM,No forced entry or threatening behaviour is found.,staff
+U172,2026-09-16T17:42,Cafeteria east entrance,environmental,MEDIUM,A small shard is found under a bench.,system_sensor
+U173,2026-09-16T17:46,Parking Area P2,electrical,MEDIUM,The contactor is replaced and power restored.,staff
+U174,2026-13-40 09:99,Science Block S1,environmental,HIGH,No one requires emergency transport.,student
+U175,2026-09-16T17:54,Residence R2,facilities,MEDIUM,Upper floors now have running water.,system_sensor
+U176,2026-09-16T17:58,Residence R1 main entrance,security,MEDIUM,Residents confirm cards work again.,lecturer
+U177,2026-09-16T18:02,Cafeteria serving line,cleaning,MEDIUM,The surface passes a slip check.,staff
+U178,2026-09-16T18:06,Walkway between B and Library,environmental,MEDIUM,The tree is inspected for further damage.,student
+U179,2026-09-16T18:10,ICT server room,it,MEDIUM,Room temperature begins returning to normal.,system_sensor
+U180,2026-09-16T18:14,Administration courtyard,security,MEDIUM,Some participants begin leaving.,student
+U181,2026-09-16T18:03,Library Level 2,facilities,MEDIUM,The affected shelves are dry and accessible.,system_sensor
+U182,2026-09-16T18:07,Engineering Blk E3,fire,HIGH,Electrical maintenance begins repairs.,system_sensor
+U183,2026-09-16T18:11,Campus-wide,it,MEDIUM,Residence connectivity is restored.,staff
+U184,2026-09-16T18:15,Sports Centre Court 1,medical,high,Emergency responders have departed with the student.,staff
+U185,2026-09-16T18:19,Administration Block Lift A,accessibility,MEDIUM,Repairs are complete and the lift is under test.,student
+U186,,Science Block loading bay,security,MEDIUM,The contractor completes the scheduled inspection.,student
+U187,15/09/26 18:27,Cafeteria east entrance,environmental,MEDIUM,Final sweep is completed.,staff
+U188,2026-09-16T18:31,Parking Area P2,electrical,MEDIUM,Lighting remains stable during testing.,lecturer
+U189,2026-09-16T18:35,Science Block S1,environmental,HIGH,The corridor remains closed for final readings.,system_sensor
+U190,2026-09-16T18:39,Residence R2,maint,MEDIUM,Water quality flushing is completed.,security
+U191,2026-09-16T18:43,Residence R1 main entrance,security,MEDIUM,Manual entry control is withdrawn.,lecturer
+U192,2026-09-16T18:47,Cafeteria serving line,cleaning,MEDIUM,Warning signs remain while the floor dries.,staff
+U193,2026-09-16T18:51,Walkway between B and Library,environmental,MEDIUM,No additional unstable limbs are found.,lecturer
+U194,2026-09-16T18:55,ICT server room,it,MEDIUM,Workloads are restored gradually.,security
+U195,2026-09-16T18:59,Administration courtyard,security,MEDIUM,Normal access is restored.,lecturer
+U196,2026-09-16T18:48,Library Level 2,facilities,LOW,Area reopened after inspection.,student
+U197,2026-09-16T18:52,Engineering Block E3,fire,LOW,The room remains closed pending inspection.,system_sensor
+U198,2026-09-16T18:56,Campus-wide,it,LOW,No new failures reported for thirty minutes.,student
+U199,2026-09-16T19:00,Sports Centre Court 1,medical,LOW,No further assistance is required on site.,staff
+U200,2026-09-16T19:04,Administration Block Lift A,accessibility,LOW,Lift passes the safety test.,lecturer
+U201,2026-09-16T19:08,Science Block loading bay,security,LOW,The service corridor is secured.,system_sensor
+U202,2026-09-16T19:12,Cafeteria east entrance,environmental,LOW,The entrance reopens.,staff
+U203,2026-13-40 09:99,Parking Area P2,electrical,LOW,Security removes the temporary diversion.,lecturer
+U204,15/09/26 19:20,Science Block S1,environmental,LOW,Air readings return to normal.,student
+U205,2026-09-16T19:24,Residence R2,facilities,LOW,Normal pressure is stable.,security
+U206,2026-09-16T19:28,Residence R1 main entrance,security,LOW,Monitoring shows normal access events.,security
+U207,2026-09-16T19:32,Cafeteria serving line,cleaning,low,The section reopens.,system_sensor
+U208,2026-09-16T19:36,Walkway between B and Library,environmental,LOW,The walkway reopens.,staff
+U209,2026-09-16T19:40,ICT server room,network,LOW,Monitoring remains stable.,student
+U210,2026-09-16T19:44,Administration courtyard,security,LOW,The gathering ends without incident.,security
+U211,2026-09-16T19:33,Library Level 2,facilities,LOW,Resolved: no remaining water or electrical hazard.,system_sensor
+U212,2026-09-16T19:37,Engineering Block E3,fire,LOW,Resolved: room inspected and reopened with power restored.,lecturer
+U213,2026-09-16T19:41,Campus-wide,it,LOW,Resolved: campus network services are stable.,security
+U214,2026-09-16T19:45,Sports Centre Court 1,medical,LOW,Controlled: medical handover completed; no autonomous diagnosis recorded.,system_sensor
+U215,2026-09-16T19:49,Administration Block Lift A,accessibility,LOW,Resolved: Lift A returned to service and access support stood down.,security
+U216,2026-09-16T19:53,Science Block loading bay,security,LOW,Resolved: authorised contractor verified; no accusation or punitive action required.,staff
+U217,,Cafeteria east entrance,environmental,LOW,Resolved: glass removed and accessible route restored.,staff
+U218,2026-09-16T20:01,Parking Area P2,electrical,LOW,Resolved: P2 lighting and kiosk power restored.,student
+U219,2026-09-16T20:05,Science Block S1,environmental,LOW,Resolved: area cleared after inspection.,security
+U220,2026-09-16T20:09,Residence R2,facilities,LOW,Resolved: full water service restored.,student
+U221,15/09/26 20:13,Residence R1 main entrance,security,LOW,Resolved: access control restored.,staff
+U222,2026-09-16T20:17,Cafeteria serving line,cleaning,LOW,"Resolved: floor clean, dry and accessible.",lecturer
+U223,2026-09-16T20:21,Walkway between B and Library,environmental,LOW,Resolved: debris removed and tree inspected.,lecturer
+U224,2026-09-16T20:25,ICT server room,it,LOW,Resolved: cooling and systems normal.,security
+U225,2026-09-16T20:29,Administration courtyard,security,LOW,Resolved: no enforcement action required.,staff
+U226,2026-09-16T20:18,Library Level 2,facilities,LOW,Water is pooling near the study desks on level two.,staff
+U227,2026-09-16T20:22,Engineering Block E3,fire,LOW,A burning smell is coming from the E3 electrical lab.,student
+U228,2026-09-16T20:26,Campus-wide,network,LOW,Wi-Fi is slow in the north residence.,security
+U229,2026-09-16T20:30,Sports Centre Court 1,medical,LOW,A student collapsed during basketball practice.,security
+U230,2026-09-16T20:34,Administration Block Lift A,accessibility,low,Lift A is not responding at the ground floor.,lecturer
+U231,2026-09-16T20:38,Science Block loading bay,security,LOW,An unknown person is photographing a locked service entrance.,security
+U232,2026-13-40 09:99,Cafeteria east entrance,environmental,LOW,Broken glass is scattered outside the cafeteria entrance.,staff
+U233,2026-09-16T20:46,Parking Area P2,electrical,LOW,Several lights are off in parking area P2.,student
+U234,2026-09-16T20:50,Science Blk S1,environmental,LOW,A sharp chemical smell is reported outside laboratory S1.,lecturer
+U235,2026-09-16T20:54,Residence R2,facilities,LOW,No water is coming from taps on the third floor of residence R2.,system_sensor
+U236,2026-09-16T20:58,Residence R1 main entrance,security,LOW,Student cards are not unlocking the R1 main entrance.,system_sensor
+U237,2026-09-16T21:02,Cafeteria serving line,cleaning,LOW,A large oily spill is on the floor near the serving line.,system_sensor
+U238,15/09/26 21:06,Walkway between B and Library,environmental,LOW,A large branch has fallen beside the library walkway.,system_sensor
+U239,2026-09-16T21:10,ICT server room,it,LOW,The server-room temperature alarm is active.,student
+U240,2026-09-16T21:14,Administration courtyard,security,LOW,A group of students is gathering in the administration courtyard.,system_sensor
+U241,2026-09-16T21:03,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,staff
+U242,2026-09-16T21:06,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,student
+U243,2026-09-16T21:09,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,lecturer
+U244,2026-09-16T21:12,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,student
+U245,2026-09-16T21:15,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,staff
+U246,2026-09-16T21:18,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,student
+U247,2026-09-16T21:21,Humanities west stairs,maint,MEDIUM,Loose handrail on the west stairwell.,lecturer
+U248,,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,lecturer
+U249,2026-09-16T21:27,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,student
+U250,2026-09-16T21:30,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,lecturer
+U251,2026-09-16T21:33,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,lecturer
+U252,2026-09-16T21:36,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,lecturer
+U253,2026-09-16T21:39,Humanities west stairs,facilities,medium,Loose handrail on teh west stairwell.,lecturer
+U254,2026-09-16T21:42,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,lecturer
+U255,15/09/26 21:45,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,staff
+U256,2026-09-16T21:48,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,student
+U257,2026-09-16T21:51,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,lecturer
+U258,2026-09-16T21:54,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,student
+U259,2026-09-16T21:57,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,student
+U260,2026-09-16T22:00,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,student
+U261,2026-13-40 09:99,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,student
+U262,2026-09-16T22:06,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,staff
+U263,2026-09-16T22:09,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,staff
+U264,2026-09-16T22:12,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking teh accessible drop-off point.,student
+U265,2026-09-16T22:15,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,student
+U266,2026-09-16T22:18,Computer Lab C2,network,LOW,A desktop computer is repeatedly restarting in lab C2.,lecturer
+U267,2026-09-16T22:21,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,lecturer
+U268,2026-09-16T22:24,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,staff
+U269,2026-09-16T22:27,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,student
+U270,2026-09-16T22:30,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,lecturer
+U271,2026-09-16T22:33,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,student
+U272,15/09/26 22:36,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,student
+U273,2026-09-16T22:39,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,lecturer
+U274,2026-09-16T22:42,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,lecturer
+U275,2026-09-16T22:45,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,staff
+U276,2026-09-16T22:48,Main reception,accessibility,medium,A delivery vehicle is blocking the accessible drop-off point.,student
+U277,2026-09-16T22:51,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,lecturer
+U278,2026-09-16T22:54,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,student
+U279,,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,staff
+U280,2026-09-16T23:00,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,student
+U281,2026-09-16T23:03,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,student
+U282,2026-09-16T23:06,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,student
+U283,2026-09-16T23:09,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,student
+U284,2026-09-16T23:12,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,student
+U285,2026-09-16T23:15,Residence R3 courtyard,CLEANING,LOW,An overflowing bin is attracting insects.,staff
+U286,2026-09-16T23:18,Academic Blk A,electrical,LOW,A corridor light is flickering near room A14.,lecturer
+U287,2026-09-16T23:21,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,student
+U288,2026-09-16T23:24,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,staff
+U289,15/09/26 23:27,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,lecturer
+U290,2026-13-40 09:99,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,staff
+U291,2026-09-16T23:33,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,student
+U292,2026-09-16T23:36,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,student
+U293,2026-09-16T23:39,Sports field south,medical,MEDIUM,A student reports a minor ankle injury and is requesting first aid.,staff
+U294,2026-09-16T23:42,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,student
+U295,2026-09-16T23:45,Humanities west stairs,facilities,MEDIUM,Loose handrail on the west stairwell.,student
+U296,2026-09-16T23:48,Computer Lab C2,it,LOW,A desktop computer is repeatedly restarting in lab C2.,staff
+U297,2026-09-16T23:51,Residence R3 courtyard,cleaning,LOW,An overflowing bin is attracting insects.,staff
+U298,2026-09-16T23:54,Academic Block A,electrical,LOW,A corridor light is flickering near room A14.,staff
+U299,2026-09-16T23:57,Sports field south,medical,medium,A student reports a minor ankle injury and is requesting first aid.,staff
+U300,2026-09-17T00:00,Main reception,accessibility,MEDIUM,A delivery vehicle is blocking the accessible drop-off point.,lecturer
