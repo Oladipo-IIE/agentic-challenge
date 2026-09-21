@@ -1,0 +1,4 @@
+{"report_id": "EX001", "incident_id": "I001", "relationship": "NEW", "severity": "MEDIUM", "confidence": 0.7, "actions": [{"type": "REQUEST_INSPECTION", "service_id": "SVC-FACILITIES"}], "incident_status": "INVESTIGATING", "human_review": false}
+{"report_id": "EX002", "incident_id": "I001", "relationship": "CORROBORATION", "severity": "HIGH", "confidence": 0.88, "actions": [{"type": "ESCALATE_RESPONSE", "service_id": "SVC-FACILITIES"}], "incident_status": "ESCALATED", "human_review": false}
+{"report_id": "EX003", "incident_id": "I001", "relationship": "DUPLICATE", "severity": "HIGH", "confidence": 0.9, "actions": [], "incident_status": "ESCALATED", "human_review": false}
+{"report_id": "EX004", "incident_id": "I001", "relationship": "RESOLUTION", "severity": "LOW", "confidence": 0.95, "actions": [{"type": "CLOSE_INCIDENT", "service_id": "SVC-FACILITIES"}], "incident_status": "RESOLVED", "human_review": false}

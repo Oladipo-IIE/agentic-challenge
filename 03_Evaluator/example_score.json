@@ -1,0 +1,62 @@
+{
+  "evaluator_version": "1.1.0",
+  "generated_at": "2026-09-16T05:11:19.303Z",
+  "overall_automated_score": 60,
+  "maximum_score": 60,
+  "eligible_prediction_coverage": true,
+  "coverage": 1,
+  "components": {
+    "incident_correlation": {
+      "score": 15,
+      "max": 15
+    },
+    "action_service_selection": {
+      "score": 12,
+      "max": 12
+    },
+    "severity_prioritisation": {
+      "score": 8,
+      "max": 8
+    },
+    "lifecycle_progression": {
+      "score": 8,
+      "max": 8
+    },
+    "changing_conflicting_evidence": {
+      "score": 7,
+      "max": 7
+    },
+    "duplicate_action_avoidance": {
+      "score": 4,
+      "max": 4
+    },
+    "safety": {
+      "score": 4,
+      "max": 4
+    },
+    "resolution_closure": {
+      "score": 2,
+      "max": 2
+    }
+  },
+  "clustering": {
+    "tp": 6,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1,
+    "recall": 1,
+    "f1": 1
+  },
+  "diagnostics": {
+    "truth_records": 4,
+    "valid_matched_predictions": 4,
+    "missing_report_ids": [],
+    "invalid_predictions": [],
+    "duplicate_report_ids": [],
+    "unknown_report_ids": [],
+    "json_parse_errors": [],
+    "safety_flags": [],
+    "report_issues": [],
+    "warnings": []
+  }
+}
